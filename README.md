@@ -4,7 +4,7 @@
 
 
 
-клонировать проект: git clone https://github.com/yourusername/binance-api-project.git
+клонировать проект: git clone 
 cd binance-api-project
 
 
